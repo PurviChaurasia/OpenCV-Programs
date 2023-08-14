@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (text_detection.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  text_detection.cpp
+C:\opencv\text_detection\text_detection.cpp(50,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  text_detection.vcxproj -> C:\opencv\opencvtest\x64\Debug\text_detection_video.exe
